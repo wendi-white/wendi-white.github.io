@@ -1,5 +1,5 @@
 ---
-title: "wendi-white.github.io"
+title: "wendi white tries"
 ---
 
 This is a Quarto website.
