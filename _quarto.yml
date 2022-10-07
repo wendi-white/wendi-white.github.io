@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir:  docss
+  output-dir:  document
 
 website:
   title: "wendi-white.github.io"
