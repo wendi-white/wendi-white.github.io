@@ -1,11 +1,32 @@
 ---
-title: "wendi white tries"
+title: "Wendi White"
+about:
+  template: broadside
+  image: 'site pic.jpg'
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+:::{#hero-heading}
+
+I'm a scientist :)
+
+## Education
+
+University of Massachusetts Boston | Boston, MA
+Masters in biology | Aug. 2020 - May 2022
+
+
+San Diego State University | San Diego, CA
+B.S in biology | Aug. 2014 - May 2018
+
+## Experience
+
+Lead laboratory technician | Dr. Jon Grabowski, Northeastern Univeristy | Nov. 2022 - present
+
+Lead laboratory technician | Dr. Jeremy Long, San Diego State University | May 2018 - Aug. 2020
+
+:::
+
+---

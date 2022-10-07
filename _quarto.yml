@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir:  document
+ # output-dir:  document
 
 website:
   title: "wendi-white.github.io"
@@ -8,13 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: publications.qmd
+        text: Publications
+      - href: non-science fun.qmd
+        text: Non-science fun
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: theme.scss
+    backgroundcolor: rgb(89, 98,105)
+    fontcolor: black
 
-editor: visual
+#editor: visual
 
